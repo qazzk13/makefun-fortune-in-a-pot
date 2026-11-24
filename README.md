@@ -6,7 +6,7 @@
 
 Wrote this for the plant on my windowsill, the one that has been stuck next to the sink for months getting splashed every time someone does the dishes. It deserves a bit of good news for once. The line itself:
 
-Good news, you are moving to the sunny sill this week, and the cat who chews your leaves has found the laundry basket.
+You will survive the week your human goes on holiday, mostly because the neighbour over-waters everything out of guilt.
 
 The program just writes that one line to /output/entry.txt, same every time, nothing clever going on in the code.
 

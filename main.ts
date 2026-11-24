@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // trailing newline. Deterministic, no network, no randomness.
 
 const LINE =
-  "Good news, you are moving to the sunny sill this week, and the cat who chews your leaves has found the laundry basket.";
+  "You will survive the week your human goes on holiday, mostly because the neighbour over-waters everything out of guilt.";
 
 const chars = [...LINE].length;
 if (chars < 1 || chars > 120 || LINE.includes("\n") || !/\S/.test(LINE)) {
